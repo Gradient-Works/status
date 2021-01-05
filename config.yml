@@ -122,7 +122,6 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Production
-      description: The main servers are located here.
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -132,7 +131,6 @@ params:
   systems:
     - name: API
       category: Production
-      description: The guts of the application.
 
   # What date format to use?
   #
